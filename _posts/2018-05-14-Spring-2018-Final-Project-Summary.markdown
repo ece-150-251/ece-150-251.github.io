@@ -5,7 +5,8 @@ date:   2018-05-14 23:35:51 -0700
 categories: jekyll update
 ---
 
-### **Project Instructor: Yogananda Isukapalli, <yoga@ece.ucsb.edu>**  
+### **Project Instructor: Yogananda Isukapalli, <yoga@ucsb.edu>**
+### **Homepage: <https://www.ece.ucsb.edu/~yoga/>**
 
 ---
 <br/>
