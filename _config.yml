@@ -13,23 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: ECE 150/251 Mobile Embedded Systems
+email:
+  yoga@ucsb.edu
+email1:
+  zhenyuyang@umail.ucsb.edu
+email2:
+  chuanheshan@ucsb.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This page contains the final project summaries for ECE 150/251
+  Mobile Embedded Systems class at University of California, Santa Barbara.
+  Each project has a brief description and an URL for its dedicated homepage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
-
+  #- jekyll-feed
+show_excerpts: True
+excerpt_separator: "<!-- more -->"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
