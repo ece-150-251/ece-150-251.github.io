@@ -5,8 +5,7 @@ date:   2018-05-14 23:35:51 -0700
 categories: jekyll update
 ---
 
-### **Project Instructor: Yogananda Isukapalli, <yoga@ucsb.edu>**
-### **Homepage: <https://www.ece.ucsb.edu/~yoga/>**
+### **Project Instructor: [Yogananda Isukapalli][instructor], <yoga@ucsb.edu>**
 
 ---
 <br/>
@@ -317,6 +316,7 @@ _Seamless integration_
 <br/>
 
 ---
+[instructor]: https://www.ece.ucsb.edu/~yoga/
 [p1]: https://sites.google.com/view/ece251-poormansmusicglove/home
 [p2]: https://sites.google.com/view/pixify/home
 [p3]: https://ucsbhoverhand.wordpress.com/
