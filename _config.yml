@@ -31,7 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: Minima
 #repository: ece-150-251/ece-150-251.github.io
 plugins:
   #- jekyll-feed
