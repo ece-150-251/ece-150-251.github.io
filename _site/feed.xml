@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-15T04:52:51-07:00</updated><id>http://localhost:4000/</id><title type="html">ECE 150/251 Mobile Embedded Systems</title><subtitle>This page contains the final project summaries for ECE 150/251 Mobile Embedded Systems class at University of California, Santa Barbara. Each project has a brief description and an URL for its dedicated homepage.</subtitle><entry><title type="html">Spring 2018 Final Project Summary</title><link href="http://localhost:4000/jekyll/update/2018/05/14/Spring-2018-Final-Project-Summary.html" rel="alternate" type="text/html" title="Spring 2018 Final Project Summary" /><published>2018-05-14T23:35:51-07:00</published><updated>2018-05-14T23:35:51-07:00</updated><id>http://localhost:4000/jekyll/update/2018/05/14/Spring-2018-Final-Project-Summary</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/05/14/Spring-2018-Final-Project-Summary.html">&lt;h3 id=&quot;project-instructor-yogananda-isukapalli-yogaeceucsbedu&quot;&gt;&lt;strong&gt;Project Instructor: Yogananda Isukapalli, &lt;a href=&quot;mailto:yoga@ece.ucsb.edu&quot;&gt;yoga@ece.ucsb.edu&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;poor-mans-music-glove&quot;&gt;&lt;em&gt;&lt;strong&gt;Poor Man’s Music Glove&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-jashanvir-staggar--celeste-bean&quot;&gt;&lt;strong&gt;Team: Jashanvir S.Taggar &amp;amp; Celeste Bean&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Drawing inspiration from a number of efforts in the electronic music community to create “musical gloves,” we are building a much more readily available alternative using only a phone.  Our app will produce a musical note dependent on the phone’s readings from its accelerometer and gyroscope, which control the note’s volume and pitch, respectively.  Users will then be able to save their creations either locally or to a website and will have the ability to download other users’ songs.  The project incorporates elements of sensor reading, peripheral output, saving data, and networking.  As a stretch goal, we may find some way to incorporate the camera or geographical data so that only people in close proximity can see each other’s images.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/ece251-poormansmusicglove/home&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;pixify&quot;&gt;&lt;em&gt;&lt;strong&gt;Pixify&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-octavio-lopez--eduardo-olmos&quot;&gt;&lt;strong&gt;Team: Octavio Lopez &amp;amp; Eduardo Olmos&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;User will focus the camera on an image target, using the application. Animated creatures will appear on as many as two image targets. The application will then introduce a combat menu system where the user can attack the other user’s creature. The creatures can also be unlocked for viewing later using its respective image card.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/pixify/home&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;hover-hand&quot;&gt;&lt;em&gt;&lt;strong&gt;Hover Hand&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-colin-garrett--steven-fields&quot;&gt;&lt;strong&gt;Team: Colin Garrett &amp;amp; Steven Fields&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Hello, we are Hover Hand, a team dedicated to making a more intuitive control for flying a drone.  By using a glove outfitted with IMU sensors, we hope to create a model of the hand that tracks movement that can control a drone. We are sending values from our glove over BLE to an android phone, that can then leverage the DJI sdk to control a DJI drone via wifi communication.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ucsbhoverhand.wordpress.com/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;locate&quot;&gt;&lt;em&gt;&lt;strong&gt;Locate&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-franklin-tang-himangshu-chowdhury--ryan-lorica&quot;&gt;&lt;strong&gt;Team: Franklin Tang, Himangshu Chowdhury, &amp;amp; Ryan Lorica&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Step aside Bluetooth trackers. It’s time for a real GPS locator. Our goal is to create an affordable mobile tracker that reports to you phone via our app, Locate. The app will be able to ping the Locator via cost-effective text messaging, and receive a reply with the Locator’s GPS coordinates. With Google Maps integration, you will be able to see your device’s real location, on demand.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/locategps/home&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;classtracker&quot;&gt;&lt;em&gt;&lt;strong&gt;ClassTracker&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-saurabh-gupta--brandon-pon&quot;&gt;&lt;strong&gt;Team: Saurabh Gupta &amp;amp; Brandon Pon&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;The idea of this app is to simplify the process of finding your way around the UCSB campus. Right now, the few methods of navigating around campus include pulling out a physical map (not feasible, especially in today’s tech-y world), using UCSB’s interactive map (which no one really uses), or using Google Maps. The problem with Google Maps is that it doesn’t recognize specific buildings, and sometimes it will not properly recognize an address or location that a user inputs. This is where our app comes into play.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://classtrackerece251.wordpress.com/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;weceipt&quot;&gt;&lt;em&gt;&lt;strong&gt;Weceipt&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-dennis-fong--jacky-zheng&quot;&gt;&lt;strong&gt;Team: Dennis Fong &amp;amp; Jacky Zheng&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;We want the process of splitting bills to be as easy as the 3 steps of snap, add, and drag. Nobody wants to be the one who pays for the bill and be responsible for splitting the receipt while calculating tax and tip. Weceipt is the solution to easily splitting a receipt in the snap of a picture.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/weceipt/home?authuser=0&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;college-attendance-app&quot;&gt;&lt;em&gt;&lt;strong&gt;College Attendance App&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-chet-koziol--trevor-hecht&quot;&gt;&lt;strong&gt;Team: Chet Koziol &amp;amp; Trevor Hecht&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;What is our purpose?
+To eliminate time wasted by calling role.
+How will it work?
+The teacher will set a password prior to class and write it on the board.
+Once the students arrive, they will enter this password to show that they are attending.
+After the time runs out for students to enter the password, the list of absent students are displayed for the teacher.
+What will the user see as a professor:
+Page 1: has a list of all the courses and times that he teaches.
+Page 2 (once they select a class): a text edit and a button widget.
+This is where the teacher will set the attendance password.
+What will the user see as a student:
+Page 1: has a list of their classes and options to add or remove a class.
+Page 2 (once they select a class): a text edit and a button widget.
+This is where they will submit the attendance password.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://attendanceapp699072255.wordpress.com/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;spot-mobile-base-station&quot;&gt;&lt;em&gt;&lt;strong&gt;SPOT Mobile Base Station&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-bryan-lavin-parmenter--neil-obryan&quot;&gt;&lt;strong&gt;Team: Bryan Lavin-Parmenter &amp;amp; Neil O’Bryan&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;SPOT (Spatial Positioning on Terrain) is an experimental human communication interface designed for astronauts in conjunction with a human-computer interaction team at NASA.
+The goal of SPOT is to reduce an astronaut’s cognitive load while maximizing productivity during future surface exploration missions.
+SPOT accomplishes this goal by reducing the reliance on vocal communication for distribution of information between astronauts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://android.bryanparmenter.com/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;dogpark&quot;&gt;&lt;em&gt;&lt;strong&gt;Dogpark&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-maga-kim--raymond-yang&quot;&gt;&lt;strong&gt;Team: Maga Kim &amp;amp; Raymond Yang&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;“Tinder for Dogs”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Allow dog owners to meet other dog owners in the area.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Match with other dogs and chat with owners in groups to arrange park visits, runs, meetups etc.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/dogpark/home?authuser=0&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;pictobug&quot;&gt;&lt;em&gt;&lt;strong&gt;PictoBug&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-amber-du--anthony-chen&quot;&gt;&lt;strong&gt;Team: Amber Du &amp;amp; Anthony Chen&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;PictoBug is an app that pays homage to the Nintendo DS’s program called Pictochat, that allows users nearby to chat and draw with each other without the need for an Internet connection. By using WiFi Direct, the app lets users create and join chat rooms where they can message or draw messages to each other in a similar way that PictoChat did.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/pictobug/home&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;shout&quot;&gt;&lt;em&gt;&lt;strong&gt;Shout&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-jair-r-santiago-carranza-min-jian-yang--brian-young&quot;&gt;&lt;strong&gt;Team: Jair R. Santiago Carranza, Min Jian Yang, &amp;amp; Brian Young&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;The goal of this projects is create an app that helps people keep in touch with
+friends, family, and loved ones. This application aims to provide its users with simple person-to-person and
+group messaging. Additionally, the application will also feature the ability to
+talk to local users that also have the application installed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://theshoutapp.blogspot.com/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;chip-chat&quot;&gt;&lt;em&gt;&lt;strong&gt;Chip Chat&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-andrew-polk-victoria-sneddon--matthew-speck&quot;&gt;&lt;strong&gt;Team: Andrew Polk, Victoria Sneddon, &amp;amp; Matthew Speck&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Our Idea: An app that will allow a user to join a chat room with other users.
+Chat rooms will be entered by name.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Using TCP Sockets/Server:
+Can join chat room by entering a chat room name which will automatically connect you to the correct server and port number
+A third node/server will be in place where the chat rooms will be hosted
+The server will act as a bridge between users in a chat room
+Chat room will stay open on the server as long as a single user is connected.
+Saving processing power by not keeping rooms open indefinitely.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/chipchat/about?authuser=0&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;rydebot&quot;&gt;&lt;em&gt;&lt;strong&gt;RydeBot&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-jiaheng-tang--yulin-ou&quot;&gt;&lt;strong&gt;Team: Jiaheng Tang &amp;amp; Yulin Ou&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;We want to build a simple Rideshare App called RydeBot. Users will be able to login and either post as a rider, or select the posts as a driver. Riders can post their requests which are shown to drivers. Drivers can view the riders locations/request schedule and select the rider they would like to pick up. They can also chat with riders. Once selected, navigation is started on their phone.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/rydebot/home&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;ucsb-tracker&quot;&gt;&lt;em&gt;&lt;strong&gt;UCSB Tracker&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-zhicheng-zhang-yunxi-li--rongjian-li&quot;&gt;&lt;strong&gt;Team: Zhicheng Zhang, Yunxi Li, &amp;amp; Rongjian Li&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;An interactive app providing locations services for students on campus. Detailed locations including main buildings, trailer rooms and parking lots are covered. The app features a convenient user interfaces including voice/text recognition for campus addresses. The locating service will be available in the form of either GPS or Cellular locating. Further more, a posting sections allows organizers to broadcast event information in real time and potentially other functionalities.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/ucsb-tracker&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;rolling-ball&quot;&gt;&lt;em&gt;&lt;strong&gt;Rolling Ball&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-zhaoren-zeng-zhaorui-zeng--wenbo-xu&quot;&gt;&lt;strong&gt;Team: Zhaoren Zeng, Zhaorui Zeng, &amp;amp; Wenbo Xu&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Our project aimed to build an AR game with MCU control. The app recognized the designated print out image on a surface and generate a ball on the surface which can be controlled by user holding an external MCU with gestures through Triple Axis Accelerometer and Gyro sensor. The MCU send its data to a portable Arduino via cloud. The user will be able to mess around with the ball on the surface. The stretch goal for this project is to make the ball float in the air and the user is able to control the ball moving freely in the air with the MCU. This way the MCU is truly much more superior to the phone’s gyroscope in terms of 3D space control.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rollingball417870449.wordpress.com/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;music-performer&quot;&gt;&lt;em&gt;&lt;strong&gt;Music Performer&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-haowen-zhang--haorui-jiang&quot;&gt;&lt;strong&gt;Team: Haowen Zhang &amp;amp; Haorui Jiang&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;This project is aiming to create a new way to make music – using hand gestures. Deliver a Android app allowing user to perform music with virtual instruments using non-touch hand gesture. Implement a hand gesture recognition function to detect/recognize user’s fingers and play related musical sound. Users are able to create a piece of melody with their hands and record their works.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aimsecond.github.io/music-performer/&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;basilisk&quot;&gt;&lt;em&gt;&lt;strong&gt;Basilisk&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-gokul-p-nallasami--barath-k-ramaswami&quot;&gt;&lt;strong&gt;Team: Gokul P. Nallasami &amp;amp; Barath K. Ramaswami&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Our primary objective is to design a Wi-Fi based multiplayer snake game that makes uses of a mixture of hardware and software API’s with our primary focus on user experience. The game logic we intend to design is aimed at making the app easy to interact with whilst offering minimal overheads.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/basilisk/home?authuser=0&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;speed-sudoku&quot;&gt;&lt;em&gt;&lt;strong&gt;Speed Sudoku&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-aravind-sudharsan--vinu-b-sankara-lingam&quot;&gt;&lt;strong&gt;Team: Aravind Sudharsan &amp;amp; Vinu B. Sankara Lingam&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;The primary goal is to create an offline multiplayer game which allows users to play SUDOKU in Single Player and Multiplayer (2 player) modes. This app will allow 2 users to play while they can simultaneously monitor the opponent’s progress in percentage.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/speedsudoku&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;intuitive-grocery-list&quot;&gt;&lt;em&gt;&lt;strong&gt;Intuitive Grocery List&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-pooja-v-kadam-venkat-raman--vishal-hosakere&quot;&gt;&lt;strong&gt;Team: Pooja V. Kadam, Venkat Raman, &amp;amp; Vishal Hosakere&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;App which takes the Grocery List as input, along with location input and suggests the nearest possible store where the groceries can be purchased.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/intuitivegrocerylist/home?authuser=0&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;magic-defense&quot;&gt;&lt;em&gt;&lt;strong&gt;Magic Defense&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-john-zhou--liyuan-wang&quot;&gt;&lt;strong&gt;Team: John Zhou &amp;amp; LiYuan Wang&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;In general, this project is a AR Tower Defense game deployed on Android Device. The classic Tower Defense rules apply in this  game. Player need to defense their bases by purchasing and deploying towers with different element magic. The idea of this project came from the customized map of Warcraft 3, Element Defense.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/magicdefence/homepage&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;set&quot;&gt;&lt;em&gt;&lt;strong&gt;SET&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-brandon-tran--danielle-robinson&quot;&gt;&lt;strong&gt;Team: Brandon Tran &amp;amp; Danielle Robinson&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Our Android app will implement SET! with a primary focus on the user interface. SET!’s official iOS app clunky with outdated graphic design. We aim to implement both single and multiplayer modes. For multiplayer, we will use Google’s Turn-Based Multiplayer API, as well as Wi-Fi direct for communication between two devices. Stretch goals include high score and leaderboard for single-player, and multiplayer gameplay for more than 2 players.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/setproject&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;campus-view&quot;&gt;&lt;em&gt;&lt;strong&gt;Campus View&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-james-yang--ashlynn-cardoso&quot;&gt;&lt;strong&gt;Team: James Yang &amp;amp; Ashlynn Cardoso&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Give visitors a pocket guide of UCSB’s major buildings/landmarks. Access their location to give suggestions on what to view next. Offer directions to nearby buildings.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/campusview&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;increasing-spatial-awareness&quot;&gt;&lt;em&gt;&lt;strong&gt;Increasing Spatial Awareness&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-jose-acuna-moscoso--chris-park&quot;&gt;&lt;strong&gt;Team: Jose Acuna Moscoso &amp;amp; Chris Park&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;N/A&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- [Project Homepage][p23] --&gt;
+&lt;p&gt;Project Homepage&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;ar-emoji&quot;&gt;&lt;em&gt;&lt;strong&gt;AR Emoji&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-andrew-gonzalez--susan-wu&quot;&gt;&lt;strong&gt;Team: Andrew Gonzalez &amp;amp; Susan Wu&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;AR Emoji is an Augmented Reality (AR) mobile phone app that uses your phone camera to display emojis of real life objects. It works by using Computer Vision to detect and recognize objects captured by your phone camera. By creating a mapping between real life objects and their respective emojis the app can create or reference a correct 3D emoji model of the real life object. By augmenting this virtual object over the real object the user can view the 3D emoji that appears to be in front of the user. The purpose of this app is to provide a fun and entertaining visualization of our real world replaced with virtual objects.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/ar-emoji/home&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;treasure-hunt&quot;&gt;&lt;em&gt;&lt;strong&gt;Treasure Hunt&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;team-even-skari-rahul-vishwakarma--satish-kumar&quot;&gt;&lt;strong&gt;Team: Even Skari, Rahul Vishwakarma, &amp;amp; Satish Kumar&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Create a Treasure hunt game in Augmented Reality&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Use AR core to visualize treasure creation and discovery&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Use location based services for navigation&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;In-game notification services for information sharing&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;em&gt;Seamless integration&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;AR core&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Cloud-based notification&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Location services&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;a href=&quot;https://sites.google.com/view/treasurehuntar&quot;&gt;Project Homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;!-- [p23]: --&gt;
+
+&lt;!-- more --&gt;</content><author><name></name></author><summary type="html">Project Instructor: Yogananda Isukapalli, yoga@ece.ucsb.edu Poor Man’s Music Glove Team: Jashanvir S.Taggar &amp;amp; Celeste Bean Drawing inspiration from a number of efforts in the electronic music community to create “musical gloves,” we are building a much more readily available alternative using only a phone. Our app will produce a musical note dependent on the phone’s readings from its accelerometer and gyroscope, which control the note’s volume and pitch, respectively. Users will then be able to save their creations either locally or to a website and will have the ability to download other users’ songs. The project incorporates elements of sensor reading, peripheral output, saving data, and networking. As a stretch goal, we may find some way to incorporate the camera or geographical data so that only people in close proximity can see each other’s images. Project Homepage Pixify Team: Octavio Lopez &amp;amp; Eduardo Olmos User will focus the camera on an image target, using the application. Animated creatures will appear on as many as two image targets. The application will then introduce a combat menu system where the user can attack the other user’s creature. The creatures can also be unlocked for viewing later using its respective image card. Project Homepage Hover Hand Team: Colin Garrett &amp;amp; Steven Fields Hello, we are Hover Hand, a team dedicated to making a more intuitive control for flying a drone. By using a glove outfitted with IMU sensors, we hope to create a model of the hand that tracks movement that can control a drone. We are sending values from our glove over BLE to an android phone, that can then leverage the DJI sdk to control a DJI drone via wifi communication. Project Homepage Locate Team: Franklin Tang, Himangshu Chowdhury, &amp;amp; Ryan Lorica Step aside Bluetooth trackers. It’s time for a real GPS locator. Our goal is to create an affordable mobile tracker that reports to you phone via our app, Locate. The app will be able to ping the Locator via cost-effective text messaging, and receive a reply with the Locator’s GPS coordinates. With Google Maps integration, you will be able to see your device’s real location, on demand. Project Homepage ClassTracker Team: Saurabh Gupta &amp;amp; Brandon Pon The idea of this app is to simplify the process of finding your way around the UCSB campus. Right now, the few methods of navigating around campus include pulling out a physical map (not feasible, especially in today’s tech-y world), using UCSB’s interactive map (which no one really uses), or using Google Maps. The problem with Google Maps is that it doesn’t recognize specific buildings, and sometimes it will not properly recognize an address or location that a user inputs. This is where our app comes into play. Project Homepage Weceipt Team: Dennis Fong &amp;amp; Jacky Zheng We want the process of splitting bills to be as easy as the 3 steps of snap, add, and drag. Nobody wants to be the one who pays for the bill and be responsible for splitting the receipt while calculating tax and tip. Weceipt is the solution to easily splitting a receipt in the snap of a picture. Project Homepage College Attendance App Team: Chet Koziol &amp;amp; Trevor Hecht What is our purpose? To eliminate time wasted by calling role. How will it work? The teacher will set a password prior to class and write it on the board. Once the students arrive, they will enter this password to show that they are attending. After the time runs out for students to enter the password, the list of absent students are displayed for the teacher. What will the user see as a professor: Page 1: has a list of all the courses and times that he teaches. Page 2 (once they select a class): a text edit and a button widget. This is where the teacher will set the attendance password. What will the user see as a student: Page 1: has a list of their classes and options to add or remove a class. Page 2 (once they select a class): a text edit and a button widget. This is where they will submit the attendance password. Project Homepage SPOT Mobile Base Station Team: Bryan Lavin-Parmenter &amp;amp; Neil O’Bryan SPOT (Spatial Positioning on Terrain) is an experimental human communication interface designed for astronauts in conjunction with a human-computer interaction team at NASA. The goal of SPOT is to reduce an astronaut’s cognitive load while maximizing productivity during future surface exploration missions. SPOT accomplishes this goal by reducing the reliance on vocal communication for distribution of information between astronauts. Project Homepage Dogpark Team: Maga Kim &amp;amp; Raymond Yang “Tinder for Dogs” Allow dog owners to meet other dog owners in the area. Match with other dogs and chat with owners in groups to arrange park visits, runs, meetups etc. Project Homepage PictoBug Team: Amber Du &amp;amp; Anthony Chen PictoBug is an app that pays homage to the Nintendo DS’s program called Pictochat, that allows users nearby to chat and draw with each other without the need for an Internet connection. By using WiFi Direct, the app lets users create and join chat rooms where they can message or draw messages to each other in a similar way that PictoChat did. Project Homepage Shout Team: Jair R. Santiago Carranza, Min Jian Yang, &amp;amp; Brian Young The goal of this projects is create an app that helps people keep in touch with friends, family, and loved ones. This application aims to provide its users with simple person-to-person and group messaging. Additionally, the application will also feature the ability to talk to local users that also have the application installed. Project Homepage Chip Chat Team: Andrew Polk, Victoria Sneddon, &amp;amp; Matthew Speck Our Idea: An app that will allow a user to join a chat room with other users. Chat rooms will be entered by name. Using TCP Sockets/Server: Can join chat room by entering a chat room name which will automatically connect you to the correct server and port number A third node/server will be in place where the chat rooms will be hosted The server will act as a bridge between users in a chat room Chat room will stay open on the server as long as a single user is connected. Saving processing power by not keeping rooms open indefinitely. Project Homepage RydeBot Team: Jiaheng Tang &amp;amp; Yulin Ou We want to build a simple Rideshare App called RydeBot. Users will be able to login and either post as a rider, or select the posts as a driver. Riders can post their requests which are shown to drivers. Drivers can view the riders locations/request schedule and select the rider they would like to pick up. They can also chat with riders. Once selected, navigation is started on their phone. Project Homepage UCSB Tracker Team: Zhicheng Zhang, Yunxi Li, &amp;amp; Rongjian Li An interactive app providing locations services for students on campus. Detailed locations including main buildings, trailer rooms and parking lots are covered. The app features a convenient user interfaces including voice/text recognition for campus addresses. The locating service will be available in the form of either GPS or Cellular locating. Further more, a posting sections allows organizers to broadcast event information in real time and potentially other functionalities. Project Homepage Rolling Ball Team: Zhaoren Zeng, Zhaorui Zeng, &amp;amp; Wenbo Xu Our project aimed to build an AR game with MCU control. The app recognized the designated print out image on a surface and generate a ball on the surface which can be controlled by user holding an external MCU with gestures through Triple Axis Accelerometer and Gyro sensor. The MCU send its data to a portable Arduino via cloud. The user will be able to mess around with the ball on the surface. The stretch goal for this project is to make the ball float in the air and the user is able to control the ball moving freely in the air with the MCU. This way the MCU is truly much more superior to the phone’s gyroscope in terms of 3D space control. Project Homepage Music Performer Team: Haowen Zhang &amp;amp; Haorui Jiang This project is aiming to create a new way to make music – using hand gestures. Deliver a Android app allowing user to perform music with virtual instruments using non-touch hand gesture. Implement a hand gesture recognition function to detect/recognize user’s fingers and play related musical sound. Users are able to create a piece of melody with their hands and record their works. Project Homepage Basilisk Team: Gokul P. Nallasami &amp;amp; Barath K. Ramaswami Our primary objective is to design a Wi-Fi based multiplayer snake game that makes uses of a mixture of hardware and software API’s with our primary focus on user experience. The game logic we intend to design is aimed at making the app easy to interact with whilst offering minimal overheads. Project Homepage Speed Sudoku Team: Aravind Sudharsan &amp;amp; Vinu B. Sankara Lingam The primary goal is to create an offline multiplayer game which allows users to play SUDOKU in Single Player and Multiplayer (2 player) modes. This app will allow 2 users to play while they can simultaneously monitor the opponent’s progress in percentage. Project Homepage Intuitive Grocery List Team: Pooja V. Kadam, Venkat Raman, &amp;amp; Vishal Hosakere App which takes the Grocery List as input, along with location input and suggests the nearest possible store where the groceries can be purchased. Project Homepage Magic Defense Team: John Zhou &amp;amp; LiYuan Wang In general, this project is a AR Tower Defense game deployed on Android Device. The classic Tower Defense rules apply in this game. Player need to defense their bases by purchasing and deploying towers with different element magic. The idea of this project came from the customized map of Warcraft 3, Element Defense. Project Homepage SET Team: Brandon Tran &amp;amp; Danielle Robinson Our Android app will implement SET! with a primary focus on the user interface. SET!’s official iOS app clunky with outdated graphic design. We aim to implement both single and multiplayer modes. For multiplayer, we will use Google’s Turn-Based Multiplayer API, as well as Wi-Fi direct for communication between two devices. Stretch goals include high score and leaderboard for single-player, and multiplayer gameplay for more than 2 players. Project Homepage Campus View Team: James Yang &amp;amp; Ashlynn Cardoso Give visitors a pocket guide of UCSB’s major buildings/landmarks. Access their location to give suggestions on what to view next. Offer directions to nearby buildings. Project Homepage Increasing Spatial Awareness Team: Jose Acuna Moscoso &amp;amp; Chris Park N/A Project Homepage AR Emoji Team: Andrew Gonzalez &amp;amp; Susan Wu AR Emoji is an Augmented Reality (AR) mobile phone app that uses your phone camera to display emojis of real life objects. It works by using Computer Vision to detect and recognize objects captured by your phone camera. By creating a mapping between real life objects and their respective emojis the app can create or reference a correct 3D emoji model of the real life object. By augmenting this virtual object over the real object the user can view the 3D emoji that appears to be in front of the user. The purpose of this app is to provide a fun and entertaining visualization of our real world replaced with virtual objects. Project Homepage Treasure Hunt Team: Even Skari, Rahul Vishwakarma, &amp;amp; Satish Kumar Create a Treasure hunt game in Augmented Reality Use AR core to visualize treasure creation and discovery Use location based services for navigation In-game notification services for information sharing Seamless integration AR core Cloud-based notification Location services Project Homepage</summary></entry></feed>
