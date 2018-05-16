@@ -273,13 +273,12 @@ Saving processing power by not keeping rooms open indefinitely.*
 
 ---
 <br/>
-### *__Increasing Spatial Awareness__*
+### *__Awareness++__*
 #### **Team: Jose Acuna Moscoso & Chris Park**
 
-*N/A*
+*This project is meant to be a proof of concept of increasing one's spacial awareness using computer vision. The goal is to allow a user to query the app using voice commands and have the app interpret a live video feed to learn about the user's environment and then respond to the query. We will be using Alexa Voice Service (AVS) API to allow communication with the user and Google Cloud Vision API to gather information about the user's environment in real time.*
 
-<!-- [Project Homepage][p23] -->
-Project Homepage
+[Project Homepage][p23]
 
 <br/>
 
@@ -339,7 +338,7 @@ _Seamless integration_
 [p20]: https://sites.google.com/view/magicdefence/homepage
 [p21]: https://sites.google.com/view/setproject
 [p22]: https://sites.google.com/view/campusview
-<!-- [p23]: -->
+[p23]: https://sites.google.com/view/awarenessplusplus/home
 [p24]: https://sites.google.com/view/ar-emoji/home
 [p25]: https://sites.google.com/view/treasurehuntar
 
