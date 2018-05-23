@@ -12,21 +12,16 @@ categories: jekyll update
 <br/>
 ### **Project Summary Table:**
 
-| Controls | Augmented Reality | GPS-Based & Tracking | Optical Character & Image Recognition | Messaging & Multiplayer Games
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Poor Man's Music Glove][p1] | [Pixify][p2] | [Locate][p4] | [Weceipt][p6] | [Dogpark][p9]
-| [Hover Hand][p3] | [Magic Defense][p20] | [ClassTracker][p5] | [Music Performer][p16] | [PictoBug][p10]
-| [Rolling Ball][p15] | [AR Emoji][p24] | [College Attendance App][p7] | [Awareness++][p23] | [Shout][p11]
-| | [Treasure Hunt][p25] | [SPOT Mobile Base Station][p8] | | [Chip Chat][p12]
-| | | [RydeBot][p13] | | [Basilisk][p17]
-| | | [UCSB Tracker][p14] | | [Speed Sudoku][p18]
-| | | [Intuitive Grocery List][p19] | | [SET][p21]
-| | | [Campus View][p22] | |
-
-
-
-
-
+| GPS-Based & Tracking           | Messaging & Multiplayer Games| Augmented Reality    | Controls                     | Optical Character & Image Recognition
+|:------------------------------:|:----------------------------:|:--------------------:|:----------------------------:|:-------------------------------------:
+| [Locate][p4]                   | [Dogpark][p9]                | [Pixify][p2]         | [Poor Man's Music Glove][p1] | [Weceipt][p6]                         
+| [ClassTracker][p5]             | [PictoBug][p10]              | [Magic Defense][p20] | [Hover Hand][p3]             | [Music Performer][p16]                
+| [College Attendance App][p7]   | [Shout][p11]                 | [AR Emoji][p24]      | [Rolling Ball][p15]          | [Awareness++][p23]                    
+| [SPOT Mobile Base Station][p8] | [Chip Chat][p12]             | [Treasure Hunt][p25] |                              |                                       
+| [RydeBot][p13]                 | [Basilisk][p17]              |                      |                              |                                       
+| [UCSB Tracker][p14]            | [Speed Sudoku][p18]          |                      |                              |                                       
+| [Intuitive Grocery List][p19]  | [SET][p21]                   |                      |                              |                                       
+| [Campus View][p22]             |                              |                      |                              |                                       
 
 <br/>
 
