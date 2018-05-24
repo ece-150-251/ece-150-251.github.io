@@ -34,7 +34,7 @@ markdown: kramdown
 theme: Minima
 #repository: ece-150-251/ece-150-251.github.io
 plugins:
-  #- jekyll-feed
+  #github-pages
 show_excerpts: True
 excerpt_separator: "<!-- more -->"
 # Exclude from processing.
